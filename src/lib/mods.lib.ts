@@ -1,6 +1,6 @@
 import type { Mod } from "@/types";
 
-const API_URL = "https://api.dskt.cc";
+const API_URL = "https://dsktcc.dvh.sh";
 
 export interface ApiResponse<T> {
   status: number;
